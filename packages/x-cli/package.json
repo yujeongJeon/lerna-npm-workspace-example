@@ -1,6 +1,6 @@
 {
   "name": "@quramy/x-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Awesome CLI",
   "main": "lib/main.js",
   "bin": {
@@ -14,7 +14,7 @@
   "author": "quramy",
   "license": "MIT",
   "dependencies": {
-    "@quramy/x-core": "^1.0.0",
+    "@quramy/x-core": "^1.0.1",
     "@types/node": "^16.0.0",
     "minimist": "^1.2.5"
   },
